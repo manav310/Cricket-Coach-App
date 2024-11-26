@@ -55,9 +55,9 @@ Update the path_to_model on line 40 with the path to the best_model.pth file.
 
 Open your terminal and run the following command to get your IPv4 address:
 
-'''bash
+```bash
 ipconfig
-'''
+```
 
 Copy your IPv4 address.
 
