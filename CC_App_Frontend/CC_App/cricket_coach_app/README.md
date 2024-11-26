@@ -1,7 +1,5 @@
 # cricket_coach_app
 
-PS1 Cognix Cricket Coach App Frontend
-
 ### Application structure
 After successful build, your application structure should look like this:
 
